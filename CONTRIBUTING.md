@@ -63,6 +63,7 @@
 - Bio: College Student | Full Stack Developer
 - Github: [Tanya Kumari](https://github.com/07tAnYa)
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 ### Name: [Lavanshi Bansal](https://github.com/lavanshi295)
@@ -107,3 +108,5 @@
 - Bio: I am a Cyber Security Student studying in Nirma University.
 - GitHub: [Jenil Gajjar](https://github.com/JenilGajjar20)
 >>>>>>> fbb5146 (update contributing.md and added jenil_gajjar.md file)
+=======
+>>>>>>> d74ea92 (Added scroll to top button)
