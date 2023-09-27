@@ -56,3 +56,7 @@
 - Place: Dhaka, Bangladesh
 - Bio: Javascript Programmer
 - GitHub: [Shuvo](https://github.com/shuvo-me/)
+### Name: [Tanya Kumari](https://github.com/07tAnYa)
+- Place: Bokaro Steel City, India
+- Bio: College Student | Full Stack Developer
+- Github: [Tanya Kumari](https://github.com/07tAnYa)
