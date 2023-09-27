@@ -11,6 +11,7 @@
 - GitHub: [Abhinav Srivastav](https://github.com/Abhinavrajsrivastav)
 
 
+
 #### Name: [Naim Ahmed Shuvo](https://github.com/shuvo-me/)
 - Place: Dhaka, Bangladesh
 - Bio: Javascript Programmer
@@ -25,8 +26,8 @@
 
 - Place: Rohini, Delhi, India
 - Bio: College Student | Frontend Developer
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
 - Github: [Lavanshi Bansal](https://github.com/lavanshi295) 
 - Github: [Lavanshi Bansal](https://github.com/lavanshi295)
 
@@ -63,8 +64,8 @@
 - Place: Bokaro Steel City, India
 - Bio: College Student | Full Stack Developer
 - Github: [Tanya Kumari](https://github.com/07tAnYa)
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
 =======
 
 ### Name: [Lavanshi Bansal](https://github.com/lavanshi295)
@@ -72,7 +73,7 @@
 - Place: Rohini, Delhi, India
 - Bio: College Student | Frontend Developer
 - Github: [Lavanshi Bansal](https://github.com/lavanshi295) 
->>>>>>> 6b1009c (Added my Name)
+
 =======
 - Github: [Lavanshi Bansal](https://github.com/lavanshi295)
 
@@ -80,30 +81,26 @@
 
 - Place: Kolkata, West Bengal, India
 - Bio: College Student | Frontend Developer
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
 - Github: [Saifullah](https://github.com/Saifullah00) 
->>>>>>> ed855bc (Update CONTRIBUTING.md)
+
 =======
 - Github: [Lavanshi Bansal](https://github.com/lavanshi295) 
 =======
 - Github: [Saifullah](https://github.com/Saifullah00)
->>>>>>> fbb5146 (update contributing.md and added jenil_gajjar.md file)
+
 =======
 - Github: [Saifullah](https://github.com/Saifullah00)
->>>>>>> 6d19895 (update contributing.md and added jenil_gajjar.md file)
+
 
 #### Name: [Mitesh Rathod](https://github.com/Mitesh2020)
 
 - Place: Gujarat, INDIA
 - Bio: I'm a Computer Science student and interested in cybersecurity.
 - GitHub: [Mitesh2020](https://github.com/Mitesh2020)
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> a61dbb3 (Contributed)
-=======
->>>>>>> 6d19895 (update contributing.md and added jenil_gajjar.md file)
-=======
+
+
 
 #### Name: [Bhavya D Verma](https://github.com/bhaavvya)
 
@@ -116,21 +113,14 @@
 - Place: Ahmedabad, Gujarat, India
 - Bio: I am a Cyber Security Student studying in Nirma University.
 - GitHub: [Jenil Gajjar](https://github.com/JenilGajjar20)
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> fbb5146 (update contributing.md and added jenil_gajjar.md file)
-=======
->>>>>>> d74ea92 (Added scroll to top button)
-=======
->>>>>>> c46fa72 (update contributing.md and added jenil_gajjar.md file)
->>>>>>> 6d19895 (update contributing.md and added jenil_gajjar.md file)
-=======
->>>>>>> c46fa72 (update contributing.md and added jenil_gajjar.md file)
-=======
+
+
 
 #### Name: [Naim Ahmed Shuvo](https://github.com/shuvo-me/)
 - Place: Dhaka, Bangladesh
 - Bio: Javascript Programmer
 - GitHub: [Shuvo](https://github.com/shuvo-me/)
->>>>>>> 19c828e (Update CONTRIBUTING.md)
->>>>>>> 0d6de66 (Update CONTRIBUTING.md)
+### Name: [Tanya Kumari](https://github.com/07tAnYa)
+- Place: Bokaro Steel City, India
+- Bio: College Student | Full Stack Developer
+- Github: [Tanya Kumari](https://github.com/07tAnYa)
