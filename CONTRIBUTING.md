@@ -117,9 +117,20 @@
 - Bio: I am a Cyber Security Student studying in Nirma University.
 - GitHub: [Jenil Gajjar](https://github.com/JenilGajjar20)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> fbb5146 (update contributing.md and added jenil_gajjar.md file)
 =======
 >>>>>>> d74ea92 (Added scroll to top button)
 =======
 >>>>>>> c46fa72 (update contributing.md and added jenil_gajjar.md file)
 >>>>>>> 6d19895 (update contributing.md and added jenil_gajjar.md file)
+=======
+>>>>>>> c46fa72 (update contributing.md and added jenil_gajjar.md file)
+=======
+
+#### Name: [Naim Ahmed Shuvo](https://github.com/shuvo-me/)
+- Place: Dhaka, Bangladesh
+- Bio: Javascript Programmer
+- GitHub: [Shuvo](https://github.com/shuvo-me/)
+>>>>>>> 19c828e (Update CONTRIBUTING.md)
+>>>>>>> 0d6de66 (Update CONTRIBUTING.md)
