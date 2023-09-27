@@ -7,3 +7,9 @@
 - Place: Ghaziabad, India
 - Bio: College Student | Software Engineer aspirant
 - GitHub: [Abhinav Srivastav](https://github.com/Abhinavrajsrivastav)
+
+
+#### Name: [Naim Ahmed Shuvo](https://github.com/shuvo-me/)
+- Place: Dhaka, Bangladesh
+- Bio: Javascript Programmer
+- GitHub: [Shuvo](https://github.com/shuvo-me/)
