@@ -60,3 +60,11 @@
 - Place: Bokaro Steel City, India
 - Bio: College Student | Full Stack Developer
 - Github: [Tanya Kumari](https://github.com/07tAnYa)
+<<<<<<< HEAD
+=======
+
+### Name: [Lavanshi Bansal](https://github.com/lavanshi295)
+- Place: Rohini, Delhi, India
+- Bio: College Student | Frontend Developer
+- Github: [Lavanshi Bansal](https://github.com/lavanshi295) 
+>>>>>>> 6b1009c (Added my Name)
