@@ -26,6 +26,7 @@
 - Place: Rohini, Delhi, India
 - Bio: College Student | Frontend Developer
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Github: [Lavanshi Bansal](https://github.com/lavanshi295) 
 - Github: [Lavanshi Bansal](https://github.com/lavanshi295)
 
@@ -77,3 +78,11 @@
 - Bio: College Student | Frontend Developer
 - Github: [Saifullah](https://github.com/Saifullah00) 
 >>>>>>> ed855bc (Update CONTRIBUTING.md)
+=======
+- Github: [Lavanshi Bansal](https://github.com/lavanshi295) 
+
+#### Name: [Mitesh Rathod](https://github.com/Mitesh2020)
+- Place: Gujarat, INDIA
+- Bio: I'm a Computer Science student and interested in cybersecurity.
+- GitHub: [Mitesh2020](https://github.com/Mitesh2020)
+>>>>>>> a61dbb3 (Contributed)
