@@ -85,6 +85,9 @@
 - Bio: College Student | Frontend Developer
 
 
+
+=======
+
 - Github: [Saifullah](https://github.com/Saifullah00) 
 
 
@@ -163,8 +166,25 @@
 
 =======
 - Github: [Lavanshi Bansal](https://github.com/lavanshi295) 
+=======
+- Github: [Saifullah](https://github.com/Saifullah00)
 
 #### Name: [Mitesh Rathod](https://github.com/Mitesh2020)
+
 - Place: Gujarat, INDIA
 - Bio: I'm a Computer Science student and interested in cybersecurity.
 - GitHub: [Mitesh2020](https://github.com/Mitesh2020)
+
+=======
+
+#### Name: [Bhavya D Verma](https://github.com/bhaavvya)
+
+- Place: Kalyan, Maharashtra, India
+- Bio: Computer Science Student | Full Stack Developer
+- GitHub: [Bhavya D Verma](https://github.com/bhaavvya)
+
+#### Name: [Jenil Gajjar](https://github.com/JenilGajjar20)
+
+- Place: Ahmedabad, Gujarat, India
+- Bio: I am a Cyber Security Student studying in Nirma University.
+- GitHub: [Jenil Gajjar](https://github.com/JenilGajjar20)
