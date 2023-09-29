@@ -74,15 +74,36 @@
 - Github: [Lavanshi Bansal](https://github.com/lavanshi295)
 
 ### Name: [SAIFULLAH](https://github.com/Saifullah00)
+
 - Place: Kolkata, West Bengal, India
 - Bio: College Student | Frontend Developer
+<<<<<<< HEAD
 - Github: [Saifullah](https://github.com/Saifullah00) 
 >>>>>>> ed855bc (Update CONTRIBUTING.md)
 =======
 - Github: [Lavanshi Bansal](https://github.com/lavanshi295) 
+=======
+- Github: [Saifullah](https://github.com/Saifullah00)
+>>>>>>> fbb5146 (update contributing.md and added jenil_gajjar.md file)
 
 #### Name: [Mitesh Rathod](https://github.com/Mitesh2020)
+
 - Place: Gujarat, INDIA
 - Bio: I'm a Computer Science student and interested in cybersecurity.
 - GitHub: [Mitesh2020](https://github.com/Mitesh2020)
+<<<<<<< HEAD
 >>>>>>> a61dbb3 (Contributed)
+=======
+
+#### Name: [Bhavya D Verma](https://github.com/bhaavvya)
+
+- Place: Kalyan, Maharashtra, India
+- Bio: Computer Science Student | Full Stack Developer
+- GitHub: [Bhavya D Verma](https://github.com/bhaavvya)
+
+#### Name: [Jenil Gajjar](https://github.com/JenilGajjar20)
+
+- Place: Ahmedabad, Gujarat, India
+- Bio: I am a Cyber Security Student studying in Nirma University.
+- GitHub: [Jenil Gajjar](https://github.com/JenilGajjar20)
+>>>>>>> fbb5146 (update contributing.md and added jenil_gajjar.md file)
