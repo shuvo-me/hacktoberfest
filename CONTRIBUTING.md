@@ -33,3 +33,8 @@
 - Place: Gujarat, INDIA
 - Bio: I'm a Computer Science student and interested in cybersecurity.
 - GitHub: [Mitesh2020](https://github.com/Mitesh2020)
+
+#### Name: [Bhavya D Verma](https://github.com/bhaavvya)
+- Place: Kalyan, Maharashtra, India
+- Bio: Computer Science Student | Full Stack Developer
+- GitHub: [Bhavya D Verma](https://github.com/bhaavvya)
