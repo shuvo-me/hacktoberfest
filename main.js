@@ -19,6 +19,11 @@ $(document).ready(function(){
         }
     });
 
+    $('.count-up').counterUp({
+        delay: 10,
+        time: 1500
+    })
+
    (function ($) {
     "use strict";
     
